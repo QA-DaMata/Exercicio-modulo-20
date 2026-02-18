@@ -11,3 +11,4 @@ let mdc = (num1, num2) => {
 }
 
 console.log(mdc(12, 40));
+module.exports = { mdc }
